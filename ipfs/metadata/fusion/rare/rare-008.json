@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Seeker Array #008",
+  "description": "Reassembled within the Corps reassembly lab using Asterion Coil. Telemetry suggests lasting loyalty to its salvager.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-008.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Seeker Array"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Asterion Coil"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 180
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 112
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Echo Reef"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Resolute"
+    }
+  ],
+  "background_color": "0B0A16"
+}

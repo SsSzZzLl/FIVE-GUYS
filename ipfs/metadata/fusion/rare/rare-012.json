@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Seeker Array #012",
+  "description": "Reassembled within the Corps reassembly lab using Asterion Coil. Discarded scripts from rival factions were purged mid-cycle.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-012.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Seeker Array"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Asterion Coil"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 191
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 146
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Kite Segment"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Calculating"
+    }
+  ],
+  "background_color": "0B0A16"
+}

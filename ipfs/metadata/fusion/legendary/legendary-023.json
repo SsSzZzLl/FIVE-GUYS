@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Chimera Oracle #023",
+  "description": "Reassembled within the Corps reassembly lab using Crown of Lux. Birth cry bent the relay scaffolding by three degrees.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-023.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Chimera Oracle"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Crown of Lux"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 449
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 342
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Asterion Wreck"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Transcendent"
+    }
+  ],
+  "background_color": "0B0A16"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Shard-053 · Survey Recon",
+  "description": "Recovered from the forsaken Outer Belt. Firmware patched by unknown salvager hands.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-053.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Recon"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 40
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 21
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Outer Belt"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Docile"
+    }
+  ],
+  "background_color": "0B0A16"
+}

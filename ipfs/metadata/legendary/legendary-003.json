@@ -1,0 +1,32 @@
+{
+  "name": "Shard-003 · Paragon Overlord",
+  "description": "Recovered from the forsaken Sable Crown. Legends say it chose its salvager as much as it was found.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-003.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Overlord"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 173
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 165
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Sable Crown"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Sovereign"
+    }
+  ],
+  "background_color": "0B0A16"
+}

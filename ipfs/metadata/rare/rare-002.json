@@ -1,0 +1,32 @@
+{
+  "name": "Shard-002 · Seeker Recon",
+  "description": "Recovered from the forsaken Ringbreak Fold. Armor plating scarred by kinetic shrapnel.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-002.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Recon"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 54
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 59
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Ringbreak Fold"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Cautious"
+    }
+  ],
+  "background_color": "0B0A16"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Shard-073 · Gleaner Drone",
+  "description": "Recovered from the forsaken Outer Belt. Telemetry chatter still audible in sub-channels.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-073.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Drone"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 54
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 27
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Outer Belt"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Obedient"
+    }
+  ],
+  "background_color": "0B0A16"
+}

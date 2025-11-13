@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Omni Sovereign #029",
+  "description": "Reassembled within the Corps reassembly lab using Eclipse Engine. Birth cry bent the relay scaffolding by three degrees.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-029.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Omni Sovereign"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Eclipse Engine"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 477
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 245
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Eclipse Cathedral"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Sovereign"
+    }
+  ],
+  "background_color": "0B0A16"
+}

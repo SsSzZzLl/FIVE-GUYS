@@ -1,0 +1,32 @@
+{
+  "name": "Shard-015 · Gleaner Operator",
+  "description": "Recovered from the forsaken Dust Warrens. Telemetry chatter still audible in sub-channels.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-015.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Operator"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 45
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 37
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Dust Warrens"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Methodical"
+    }
+  ],
+  "background_color": "0B0A16"
+}

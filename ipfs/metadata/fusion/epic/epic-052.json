@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Nebula Arcanum #052",
+  "description": "Reassembled within the Corps reassembly lab using Quantum Crucible. Records show it refused two pilot candidates before syncing.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/epic/epic-052.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Nebula Arcanum"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Quantum Crucible"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 232
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 202
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Starlight Crevasse"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Unbound"
+    }
+  ],
+  "background_color": "0B0A16"
+}

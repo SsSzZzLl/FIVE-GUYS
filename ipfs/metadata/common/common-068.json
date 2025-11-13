@@ -1,0 +1,32 @@
+{
+  "name": "Shard-068 · Courier Scout",
+  "description": "Recovered from the forsaken Outer Belt. Telemetry chatter still audible in sub-channels.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-068.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 43
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 36
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Outer Belt"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Methodical"
+    }
+  ],
+  "background_color": "0B0A16"
+}

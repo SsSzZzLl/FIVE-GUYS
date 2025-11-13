@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Relay Frame #037",
+  "description": "Reassembled within the Corps reassembly lab using Amber Coil. Stitched from low-tier shards and auxiliary drones.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-037.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Relay Frame"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Amber Coil"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 114
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 50
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Signal Lattice"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Obedient"
+    }
+  ],
+  "background_color": "0B0A16"
+}

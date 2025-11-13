@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Omni Sovereign #008",
+  "description": "Reassembled within the Corps reassembly lab using Mythic Core. Sovereign routines recompiled themselves mid-forge.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-008.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Omni Sovereign"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Mythic Core"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 439
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 284
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Triune Halo"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Unpredictable"
+    }
+  ],
+  "background_color": "0B0A16"
+}

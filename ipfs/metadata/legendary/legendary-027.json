@@ -1,0 +1,32 @@
+{
+  "name": "Shard-027 · Chimera Prime",
+  "description": "Recovered from the forsaken Eclipse Cathedral. Links directly into the Corps relay without authentication.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-027.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Prime"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 173
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 132
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Eclipse Cathedral"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Mythic"
+    }
+  ],
+  "background_color": "0B0A16"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Shard-013 · Volt Pathfinder",
+  "description": "Recovered from the forsaken Starlight Crevasse. Vents residual plasma despite centuries offline.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/epic/epic-013.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Pathfinder"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 89
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 79
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Starlight Crevasse"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Volatile"
+    }
+  ],
+  "background_color": "0B0A16"
+}

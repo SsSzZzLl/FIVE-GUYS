@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Volt Prophet #012",
+  "description": "Reassembled within the Corps reassembly lab using Aurora Core. Records show it refused two pilot candidates before syncing.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/epic/epic-012.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Volt Prophet"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Aurora Core"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 289
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 235
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Zephyr Basin"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Unbound"
+    }
+  ],
+  "background_color": "0B0A16"
+}

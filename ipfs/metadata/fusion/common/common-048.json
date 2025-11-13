@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Relay Frame #048",
+  "description": "Reassembled within the Corps reassembly lab using Amber Coil. Tasked with mapmaking inside the debris belt.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-048.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Relay Frame"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Amber Coil"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 84
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 61
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Dust Warrens"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Docile"
+    }
+  ],
+  "background_color": "0B0A16"
+}

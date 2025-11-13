@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Paragon Overlord #030",
+  "description": "Reassembled within the Corps reassembly lab using Crown of Lux. Birth cry bent the relay scaffolding by three degrees.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-030.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Paragon Overlord"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Crown of Lux"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 330
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 338
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Eclipse Cathedral"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Mythic"
+    }
+  ],
+  "background_color": "0B0A16"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Paragon Overlord #025",
+  "description": "Reassembled within the Corps reassembly lab using Eclipse Engine. Birth cry bent the relay scaffolding by three degrees.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-025.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Paragon Overlord"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Eclipse Engine"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 488
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 283
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Sable Crown"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Sovereign"
+    }
+  ],
+  "background_color": "0B0A16"
+}

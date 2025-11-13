@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Omni Sovereign #003",
+  "description": "Reassembled within the Corps reassembly lab using Crown of Lux. Lab archives refuse to log the final calibration step.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-003.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Omni Sovereign"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Crown of Lux"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 460
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 259
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Sable Crown"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Sovereign"
+    }
+  ],
+  "background_color": "0B0A16"
+}

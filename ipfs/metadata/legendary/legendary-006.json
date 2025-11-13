@@ -1,0 +1,32 @@
+{
+  "name": "Shard-006 · Paragon Oracle",
+  "description": "Recovered from the forsaken Sable Crown. The shard's casing hums with sentient resonance.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-006.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 170
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 119
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Sable Crown"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Sovereign"
+    }
+  ],
+  "background_color": "0B0A16"
+}

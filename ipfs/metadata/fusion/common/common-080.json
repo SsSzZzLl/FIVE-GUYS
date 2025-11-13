@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Circuit Mule #080",
+  "description": "Reassembled within the Corps reassembly lab using Triad Filter. Stability remains volatile but responsive to simple commands.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-080.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Circuit Mule"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Triad Filter"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 105
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 60
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Dust Warrens"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Methodical"
+    }
+  ],
+  "background_color": "0B0A16"
+}

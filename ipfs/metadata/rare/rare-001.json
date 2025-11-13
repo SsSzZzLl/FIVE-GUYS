@@ -1,0 +1,32 @@
+{
+  "name": "Shard-001 · Guardian Support",
+  "description": "Recovered from the forsaken Nimbus Array. Armor plating scarred by kinetic shrapnel.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-001.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Support"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 64
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 65
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Nimbus Array"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Calculating"
+    }
+  ],
+  "background_color": "0B0A16"
+}

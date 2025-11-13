@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Patchwork Shell #055",
+  "description": "Reassembled within the Corps reassembly lab using Flux Cable. Tasked with mapmaking inside the debris belt.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-055.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Patchwork Shell"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Flux Cable"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 110
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 56
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Outer Belt"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Methodical"
+    }
+  ],
+  "background_color": "0B0A16"
+}

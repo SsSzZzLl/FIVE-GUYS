@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Vanguard Frame #013",
+  "description": "Reassembled within the Corps reassembly lab using Ion Prism. Stability pulse indicates obelisk-grade shielding.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-013.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Vanguard Frame"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Ion Prism"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 205
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 124
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Ringbreak Fold"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Resolute"
+    }
+  ],
+  "background_color": "0B0A16"
+}

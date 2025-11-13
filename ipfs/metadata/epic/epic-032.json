@@ -1,0 +1,32 @@
+{
+  "name": "Shard-032 · Volt Artillerist",
+  "description": "Recovered from the forsaken Harmonic Shoal. Rejects foreign firmware with adaptive counter-logic.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/epic/epic-032.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Artillerist"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 95
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 75
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Harmonic Shoal"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Stoic"
+    }
+  ],
+  "background_color": "0B0A16"
+}

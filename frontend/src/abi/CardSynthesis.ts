@@ -1,0 +1,102 @@
+export const CardSynthesisAbi = [
+  {
+    inputs: [
+      { internalType: "address", name: "_gameToken", type: "address" },
+      { internalType: "address", name: "_nftCollection", type: "address" },
+      { internalType: "string", name: "_metadataCID", type: "string" },
+      { internalType: "uint256[4]", name: "_rarityLimits", type: "uint256[4]" },
+    ],
+    stateMutability: "nonpayable",
+    type: "constructor",
+  },
+  {
+    anonymous: false,
+    inputs: [
+      { indexed: true, internalType: "address", name: "user", type: "address" },
+      { indexed: false, internalType: "uint8", name: "inputRarity", type: "uint8" },
+      { indexed: false, internalType: "bool", name: "success", type: "bool" },
+      { indexed: false, internalType: "uint8", name: "outputRarity", type: "uint8" },
+      { indexed: false, internalType: "uint256", name: "newTokenId", type: "uint256" },
+      { indexed: false, internalType: "uint256", name: "metadataIndex", type: "uint256" },
+    ],
+    name: "CardSynthesized",
+    type: "event",
+  },
+  {
+    inputs: [],
+    name: "FAILURE_RATE",
+    outputs: [{ internalType: "uint256", name: "", type: "uint256" }],
+    stateMutability: "view",
+    type: "function",
+  },
+  {
+    inputs: [],
+    name: "SYNTHESIS_FEE",
+    outputs: [{ internalType: "uint256", name: "", type: "uint256" }],
+    stateMutability: "view",
+    type: "function",
+  },
+  {
+    inputs: [{ internalType: "uint8", name: "rarity", type: "uint8" }],
+    name: "getPoolSizes",
+    outputs: [
+      { internalType: "uint256", name: "unclaimed", type: "uint256" },
+      { internalType: "uint256", name: "claimed", type: "uint256" },
+    ],
+    stateMutability: "view",
+    type: "function",
+  },
+  {
+    inputs: [],
+    name: "gameToken",
+    outputs: [{ internalType: "address", name: "", type: "address" }],
+    stateMutability: "view",
+    type: "function",
+  },
+  {
+    inputs: [],
+    name: "metadataCID",
+    outputs: [{ internalType: "string", name: "", type: "string" }],
+    stateMutability: "view",
+    type: "function",
+  },
+  {
+    inputs: [],
+    name: "nftCollection",
+    outputs: [{ internalType: "address", name: "", type: "address" }],
+    stateMutability: "view",
+    type: "function",
+  },
+  {
+    inputs: [{ internalType: "uint256", name: "", type: "uint256" }],
+    name: "raritySupplyLimits",
+    outputs: [{ internalType: "uint256", name: "", type: "uint256" }],
+    stateMutability: "view",
+    type: "function",
+  },
+  {
+    inputs: [
+      { internalType: "uint8", name: "rarity", type: "uint8" },
+      { internalType: "uint256[]", name: "indices", type: "uint256[]" },
+    ],
+    name: "replenishPool",
+    outputs: [],
+    stateMutability: "nonpayable",
+    type: "function",
+  },
+  {
+    inputs: [{ internalType: "string", name: "newCID", type: "string" }],
+    name: "setMetadataCID",
+    outputs: [],
+    stateMutability: "nonpayable",
+    type: "function",
+  },
+  {
+    inputs: [{ internalType: "uint256[]", name: "tokenIds", type: "uint256[]" }],
+    name: "synthesize",
+    outputs: [],
+    stateMutability: "nonpayable",
+    type: "function",
+  },
+] as const;
+

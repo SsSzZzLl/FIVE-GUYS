@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "namespaces": {
+    "default": [
+      {
+        "address": "0x0088eaaf4cddb61941a0b0e4e41583a70539762a",
+        "draws": 8,
+        "owned": 4,
+        "sales": 0,
+        "purchases": 0,
+        "fusions": 1,
+        "rarityPoints": 22,
+        "score": 121,
+        "updatedAt": "2025-11-13T20:14:49.748Z"
+      }
+    ]
+  }
+}

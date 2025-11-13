@@ -1,0 +1,32 @@
+{
+  "name": "Shard-005 · Chimera Prime",
+  "description": "Recovered from the forsaken Asterion Wreck. Legends say it chose its salvager as much as it was found.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-005.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Prime"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 219
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 151
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Asterion Wreck"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Transcendent"
+    }
+  ],
+  "background_color": "0B0A16"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Pulse Sentinel #007",
+  "description": "Reassembled within the Corps reassembly lab using Plasma Loom. Reassembled with surplus GTK to reinforce joint servos.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-007.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Pulse Sentinel"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Plasma Loom"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 138
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 103
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Ringbreak Fold"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Cautious"
+    }
+  ],
+  "background_color": "0B0A16"
+}

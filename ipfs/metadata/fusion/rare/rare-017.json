@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Vanguard Frame #017",
+  "description": "Reassembled within the Corps reassembly lab using Plasma Loom. Discarded scripts from rival factions were purged mid-cycle.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-017.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Vanguard Frame"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Plasma Loom"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 138
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 116
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Kite Segment"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Resolute"
+    }
+  ],
+  "background_color": "0B0A16"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Shard-038 · Phantom Artillerist",
+  "description": "Recovered from the forsaken Starlight Crevasse. Rejects foreign firmware with adaptive counter-logic.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/epic/epic-038.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Artillerist"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 104
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 75
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Starlight Crevasse"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Volatile"
+    }
+  ],
+  "background_color": "0B0A16"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Shard-051 · Nebula Warden",
+  "description": "Recovered from the forsaken Harmonic Shoal. Hulls etched with runic telemetry from forgotten fleets.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/epic/epic-051.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Warden"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 101
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 71
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Harmonic Shoal"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Unbound"
+    }
+  ],
+  "background_color": "0B0A16"
+}

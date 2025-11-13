@@ -1,0 +1,32 @@
+{
+  "name": "Shard-012 · Vanguard Support",
+  "description": "Recovered from the forsaken Kite Segment. Sifts ambient data for navigational cues.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-012.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Support"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 72
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 70
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Kite Segment"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Calculating"
+    }
+  ],
+  "background_color": "0B0A16"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Vanguard Frame #011",
+  "description": "Reassembled within the Corps reassembly lab using Ion Prism. Telemetry suggests lasting loyalty to its salvager.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-011.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Vanguard Frame"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Ion Prism"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 195
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 150
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Ringbreak Fold"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Resolute"
+    }
+  ],
+  "background_color": "0B0A16"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Shard-011 · Guardian Ranger",
+  "description": "Recovered from the forsaken Ringbreak Fold. Broadcasts a faint distress beacon between pulses.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-011.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 80
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 52
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Ringbreak Fold"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Resolute"
+    }
+  ],
+  "background_color": "0B0A16"
+}

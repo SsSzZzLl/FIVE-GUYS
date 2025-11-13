@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Paragon Overlord #007",
+  "description": "Reassembled within the Corps reassembly lab using Astral Heart. Birth cry bent the relay scaffolding by three degrees.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-007.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Paragon Overlord"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Astral Heart"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 355
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 267
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Eclipse Cathedral"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Transcendent"
+    }
+  ],
+  "background_color": "0B0A16"
+}

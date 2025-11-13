@@ -1,0 +1,32 @@
+{
+  "name": "Shard-059 · Survey Drone",
+  "description": "Recovered from the forsaken Signal Lattice. Firmware patched by unknown salvager hands.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-059.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Drone"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 47
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 26
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Signal Lattice"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Obedient"
+    }
+  ],
+  "background_color": "0B0A16"
+}

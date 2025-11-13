@@ -1,0 +1,32 @@
+{
+  "name": "Shard-008 · Phantom Archon",
+  "description": "Recovered from the forsaken Gravewell Verge. Vents residual plasma despite centuries offline.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/epic/epic-008.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Archon"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 131
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 82
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Gravewell Verge"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Volatile"
+    }
+  ],
+  "background_color": "0B0A16"
+}

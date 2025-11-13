@@ -1,0 +1,32 @@
+{
+  "name": "Shard-007 · Guardian Ranger",
+  "description": "Recovered from the forsaken Ringbreak Fold. Sifts ambient data for navigational cues.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-007.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 84
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 46
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Ringbreak Fold"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Cautious"
+    }
+  ],
+  "background_color": "0B0A16"
+}

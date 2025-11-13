@@ -1,0 +1,49 @@
+[
+  {
+    "id": "5",
+    "tokenId": "5",
+    "seller": "0x0088EaaF4cDdB61941A0B0E4e41583a70539762A",
+    "priceGtk": 10,
+    "rarity": "RARE",
+    "name": "Shard-017 · Guardian Support",
+    "imageUri": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-017.png",
+    "createdAt": "2025-11-13T20:13:26.935Z",
+    "isSold": true,
+    "metadataUri": "ipfs://QmUwxp52DNdLZWZdVqLDQibZeo5jZb3mZ3E14gSUXsMtJq/rare/rare-017.json",
+    "metadata": {
+      "name": "Shard-017 · Guardian Support",
+      "description": "Recovered from the forsaken Kite Segment. Retains partial tactical heuristics.",
+      "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-017.png",
+      "attributes": [
+        {
+          "trait_type": "Unit Class",
+          "value": "Support"
+        },
+        {
+          "trait_type": "Fragment Tier",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Core Charge",
+          "value": 76
+        },
+        {
+          "trait_type": "Armor Integrity",
+          "value": 71
+        },
+        {
+          "trait_type": "Recovered At",
+          "value": "Kite Segment"
+        },
+        {
+          "trait_type": "AI Temperament",
+          "value": "Resolute"
+        }
+      ],
+      "background_color": "0B0A16"
+    },
+    "signature": "0x978503df37b73d9f1fdd5e8acd9c74a872cd097a588c3bfb1f7e17064deed34e0f45c3d252b1d5bf470a109cdd1c77a491e6dd9f7413f2b0166c97847b6567021c",
+    "signedAt": 1763064790175,
+    "soldAt": "2025-11-13T20:35:06.084Z"
+  }
+]

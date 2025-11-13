@@ -1,0 +1,32 @@
+{
+  "name": "Shard-057 · Survey Scout",
+  "description": "Recovered from the forsaken Outer Belt. Basic autopilot routines intact.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-057.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 36
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 42
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Outer Belt"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Linear"
+    }
+  ],
+  "background_color": "0B0A16"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Shard-041 · Relay Scout",
+  "description": "Recovered from the forsaken L-7 Perimeter. Basic autopilot routines intact.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-041.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Scout"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 34
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 42
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "L-7 Perimeter"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Linear"
+    }
+  ],
+  "background_color": "0B0A16"
+}

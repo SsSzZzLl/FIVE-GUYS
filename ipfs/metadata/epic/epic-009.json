@@ -1,0 +1,32 @@
+{
+  "name": "Shard-009 · Volt Warden",
+  "description": "Recovered from the forsaken Zephyr Basin. Hulls etched with runic telemetry from forgotten fleets.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/epic/epic-009.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Warden"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 102
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 96
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Zephyr Basin"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Stoic"
+    }
+  ],
+  "background_color": "0B0A16"
+}

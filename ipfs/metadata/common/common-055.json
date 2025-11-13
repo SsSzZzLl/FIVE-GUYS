@@ -1,0 +1,32 @@
+{
+  "name": "Shard-055 · Survey Operator",
+  "description": "Recovered from the forsaken Outer Belt. Basic autopilot routines intact.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-055.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Operator"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 42
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 19
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Outer Belt"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Methodical"
+    }
+  ],
+  "background_color": "0B0A16"
+}

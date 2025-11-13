@@ -1,0 +1,32 @@
+{
+  "name": "Shard-024 · Survey Recon",
+  "description": "Recovered from the forsaken Dust Warrens. Basic autopilot routines intact.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-024.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Recon"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 33
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 25
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Dust Warrens"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Linear"
+    }
+  ],
+  "background_color": "0B0A16"
+}

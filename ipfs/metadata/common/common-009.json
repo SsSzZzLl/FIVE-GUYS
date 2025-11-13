@@ -1,0 +1,32 @@
+{
+  "name": "Shard-009 · Gleaner Drone",
+  "description": "Recovered from the forsaken Dust Warrens. Telemetry chatter still audible in sub-channels.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-009.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Drone"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 36
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 34
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Dust Warrens"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Linear"
+    }
+  ],
+  "background_color": "0B0A16"
+}

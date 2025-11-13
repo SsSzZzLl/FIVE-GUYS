@@ -1,0 +1,32 @@
+{
+  "name": "Shard-039 · Gleaner Recon",
+  "description": "Recovered from the forsaken L-7 Perimeter. Responds to low-voltage prompts without delay.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-039.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Recon"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 52
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 26
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "L-7 Perimeter"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Methodical"
+    }
+  ],
+  "background_color": "0B0A16"
+}

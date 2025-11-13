@@ -1,0 +1,32 @@
+{
+  "name": "Shard-038 · Courier Recon",
+  "description": "Recovered from the forsaken Signal Lattice. Responds to low-voltage prompts without delay.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-038.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Recon"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 38
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 21
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Signal Lattice"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Docile"
+    }
+  ],
+  "background_color": "0B0A16"
+}

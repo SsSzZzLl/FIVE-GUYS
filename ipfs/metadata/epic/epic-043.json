@@ -1,0 +1,32 @@
+{
+  "name": "Shard-043 · Volt Warden",
+  "description": "Recovered from the forsaken Gravewell Verge. Core sings with a chorus of long-dormant subroutines.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/epic/epic-043.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Warden"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 124
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 79
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Gravewell Verge"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Unbound"
+    }
+  ],
+  "background_color": "0B0A16"
+}

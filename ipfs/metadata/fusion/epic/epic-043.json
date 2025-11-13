@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Volt Prophet #043",
+  "description": "Reassembled within the Corps reassembly lab using Quantum Crucible. Echoes of ancestral fleets whisper through its cortex.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/epic/epic-043.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Volt Prophet"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Quantum Crucible"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 223
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 226
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Gravewell Verge"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Unbound"
+    }
+  ],
+  "background_color": "0B0A16"
+}

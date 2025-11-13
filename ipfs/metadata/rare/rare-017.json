@@ -1,0 +1,32 @@
+{
+  "name": "Shard-017 · Guardian Support",
+  "description": "Recovered from the forsaken Kite Segment. Retains partial tactical heuristics.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-017.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Support"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 76
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 71
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Kite Segment"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Resolute"
+    }
+  ],
+  "background_color": "0B0A16"
+}

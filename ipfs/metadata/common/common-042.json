@@ -1,0 +1,32 @@
+{
+  "name": "Shard-042 · Survey Drone",
+  "description": "Recovered from the forsaken L-7 Perimeter. Responds to low-voltage prompts without delay.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-042.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Drone"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 48
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 33
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "L-7 Perimeter"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Linear"
+    }
+  ],
+  "background_color": "0B0A16"
+}

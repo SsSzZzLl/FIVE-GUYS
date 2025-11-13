@@ -1,0 +1,32 @@
+{
+  "name": "Shard-017 · Chimera Prime",
+  "description": "Recovered from the forsaken Sable Crown. Wreathed in quantum echoes of prior deployments.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-017.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Prime"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 192
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 166
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Sable Crown"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Unpredictable"
+    }
+  ],
+  "background_color": "0B0A16"
+}

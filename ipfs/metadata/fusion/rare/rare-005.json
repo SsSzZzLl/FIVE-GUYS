@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Pulse Sentinel #005",
+  "description": "Reassembled within the Corps reassembly lab using Nebula Loom. Stability pulse indicates obelisk-grade shielding.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-005.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Pulse Sentinel"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Nebula Loom"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 163
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 93
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Nimbus Array"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Cautious"
+    }
+  ],
+  "background_color": "0B0A16"
+}

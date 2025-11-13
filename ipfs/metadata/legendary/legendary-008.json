@@ -1,0 +1,32 @@
+{
+  "name": "Shard-008 · Chimera Prime",
+  "description": "Recovered from the forsaken Triune Halo. Links directly into the Corps relay without authentication.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-008.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Prime"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 219
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 130
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Triune Halo"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Unpredictable"
+    }
+  ],
+  "background_color": "0B0A16"
+}

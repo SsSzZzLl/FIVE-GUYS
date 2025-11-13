@@ -1,0 +1,32 @@
+{
+  "name": "Shard-014 · Seeker Recon",
+  "description": "Recovered from the forsaken Echo Reef. Sifts ambient data for navigational cues.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-014.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Recon"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 80
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 52
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Echo Reef"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Cautious"
+    }
+  ],
+  "background_color": "0B0A16"
+}

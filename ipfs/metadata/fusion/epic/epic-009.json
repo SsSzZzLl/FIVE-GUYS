@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Phantom Bastion #009",
+  "description": "Reassembled within the Corps reassembly lab using Quantum Crucible. Lab instruments glitched for six hours following activation.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/epic/epic-009.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Phantom Bastion"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Quantum Crucible"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 291
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 179
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Zephyr Basin"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Stoic"
+    }
+  ],
+  "background_color": "0B0A16"
+}

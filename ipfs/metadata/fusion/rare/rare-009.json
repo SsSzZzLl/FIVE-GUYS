@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Guardian Shell #009",
+  "description": "Reassembled within the Corps reassembly lab using Ion Prism. Reassembled with surplus GTK to reinforce joint servos.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-009.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Guardian Shell"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Ion Prism"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 194
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 98
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Kite Segment"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Cautious"
+    }
+  ],
+  "background_color": "0B0A16"
+}

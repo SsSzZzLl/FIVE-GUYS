@@ -1,0 +1,32 @@
+{
+  "name": "Shard-012 · Singularity Prime",
+  "description": "Recovered from the forsaken Sable Crown. Legends say it chose its salvager as much as it was found.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-012.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Prime"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 184
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 164
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Sable Crown"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Mythic"
+    }
+  ],
+  "background_color": "0B0A16"
+}

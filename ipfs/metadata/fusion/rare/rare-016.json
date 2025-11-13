@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Vanguard Frame #016",
+  "description": "Reassembled within the Corps reassembly lab using Asterion Coil. Discarded scripts from rival factions were purged mid-cycle.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-016.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Vanguard Frame"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Asterion Coil"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 165
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 133
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Nimbus Array"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Cautious"
+    }
+  ],
+  "background_color": "0B0A16"
+}

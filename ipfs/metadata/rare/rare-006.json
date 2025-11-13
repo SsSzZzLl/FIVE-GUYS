@@ -1,0 +1,32 @@
+{
+  "name": "Shard-006 · Pulse Ranger",
+  "description": "Recovered from the forsaken Kite Segment. Broadcasts a faint distress beacon between pulses.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/rare/rare-006.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Ranger"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 66
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 47
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Kite Segment"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Adaptive"
+    }
+  ],
+  "background_color": "0B0A16"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Shard-048 · Ion Pathfinder",
+  "description": "Recovered from the forsaken Zephyr Basin. Vents residual plasma despite centuries offline.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/epic/epic-048.png",
+  "attributes": [
+    {
+      "trait_type": "Unit Class",
+      "value": "Pathfinder"
+    },
+    {
+      "trait_type": "Fragment Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Core Charge",
+      "value": 120
+    },
+    {
+      "trait_type": "Armor Integrity",
+      "value": 76
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Zephyr Basin"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Volatile"
+    }
+  ],
+  "background_color": "0B0A16"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Patchwork Shell #075",
+  "description": "Reassembled within the Corps reassembly lab using Flux Cable. Stability remains volatile but responsive to simple commands.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-075.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Patchwork Shell"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Flux Cable"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 95
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 41
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Signal Lattice"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Docile"
+    }
+  ],
+  "background_color": "0B0A16"
+}

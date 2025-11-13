@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Singularity Prime #024",
+  "description": "Reassembled within the Corps reassembly lab using Mythic Core. Rumoured to steer whole strike groups via quantum murmurs.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/legendary/legendary-024.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Singularity Prime"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Mythic Core"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 321
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 336
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Sable Crown"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Transcendent"
+    }
+  ],
+  "background_color": "0B0A16"
+}

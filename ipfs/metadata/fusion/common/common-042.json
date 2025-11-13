@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Patchwork Shell #042",
+  "description": "Reassembled within the Corps reassembly lab using Triad Filter. Residual soot implies a micro-singularity surge during reconstruction.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/common/common-042.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Patchwork Shell"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Triad Filter"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 93
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 41
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "L-7 Perimeter"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Linear"
+    }
+  ],
+  "background_color": "0B0A16"
+}

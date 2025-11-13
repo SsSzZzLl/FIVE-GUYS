@@ -1,0 +1,36 @@
+{
+  "name": "Fusion Ion Paragon #030",
+  "description": "Reassembled within the Corps reassembly lab using Void Lattice. Lab instruments glitched for six hours following activation.",
+  "image": "ipfs://QmWbniH6RCsK1fPn14mw8mV4Mntitrstwqp42QGBzfzMq4/images/epic/epic-030.png",
+  "attributes": [
+    {
+      "trait_type": "Fusion Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Designation",
+      "value": "Ion Paragon"
+    },
+    {
+      "trait_type": "Catalyst",
+      "value": "Void Lattice"
+    },
+    {
+      "trait_type": "Residual Charge",
+      "value": 216
+    },
+    {
+      "trait_type": "Stability Index",
+      "value": 227
+    },
+    {
+      "trait_type": "Recovered At",
+      "value": "Starlight Crevasse"
+    },
+    {
+      "trait_type": "AI Temperament",
+      "value": "Unbound"
+    }
+  ],
+  "background_color": "0B0A16"
+}

@@ -1,0 +1,8 @@
+{
+  "DeployAll#Step01_Deploy_ERC20Token": "0xDD2dA8302C5E92594585d378d1a45CCF165F498f",
+  "DeployAll#Step02_Deploy_NFTCollection": "0x218AD6e7e69d24cDC5b352cc7dA2427da8fc82BD",
+  "DeployAll#Step04_Deploy_TokenVendor": "0xAA9EF765E49eF240F1fEc0830c75436793ef0Dbe",
+  "DeployAll#Step03_Deploy_BlindBox": "0xC6B817fc9FC7d4Fcd94C7641Bd1806b21F66E522",
+  "DeployAll#Step05_Deploy_CardSynthesis": "0xa41bcb3ED468d8e7f899098232Ea2E10d4a87070",
+  "DeployAll#Step06_Deploy_Marketplace": "0x26009429931E1193C604429DF9A7fE86c63f4a76"
+}
